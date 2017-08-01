@@ -1,4 +1,4 @@
-# report-server
+# ReportServer
 This is the Broadband plugin for CIAB.
 
 1. Install Java 1.8
