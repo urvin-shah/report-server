@@ -22,9 +22,9 @@
 	     sudo mkdir /opt/gradle
 	     sudo unzip -d /opt/gradle gradle-2.12-bin.zip		 
 		 export PATH=$PATH:/opt/gradle/gradle-2.12/bin
-4. Execute the mongodb
-   ./mongod --dbpath <Home PATH>/mongodb/mongodb/data &
-5. Clone the repository or download zip of report-server	 
+ - Execute the mongodb    ./mongod --dbpath <Home
+   PATH>/mongodb/mongodb/data &
+ - Clone the repository or download zip of report-server	 
 
 
 ----------
