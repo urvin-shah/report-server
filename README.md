@@ -1,3 +1,14 @@
+# report-server
+This is the Broadband plugin for CIAB.
+
+1. Install Java 1.8
+2. Install Gradle
+3. Install MongoDB
+4. git clone https://github.com/urvin-shah/report-server.git
+5. cd report-server
+6. ./gradlew bootRun
+7. Rest APIs
+
 ## Installation
 
  - Install Java 1.8 from oracle site and set the path of of bin directory
