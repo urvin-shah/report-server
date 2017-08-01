@@ -39,11 +39,11 @@
 
 
 ## REST APIs
-1. User management
-   1.1 /users : This API list all users
-	 1.2 /login?userName=admin&pass=admin : This API is used to validate the userName
-	 1.3 /addUser?userName=<username>&role=<role-name>&pass=<password> : This api is used to add a new user in the database
-	 1.4 /changePassword?userName=<username>&newPass=<NewPass> : This API is used to change the password
-2. Web Site visit details
+1. **User management**
+    1.1 /users : This API list all users
+    1.2 /login?userName=admin&pass=admin : This API is used to validate the userName
+    1.3 /addUser?userName=<username>&role=<role-name>&pass=<password> : This api is used to add a new user in the database
+    1.4 /changePassword?userName=<username>&newPass=<NewPass> : This API is used to change the password
+2. **Web Site visit details**
    2.1 /visits : This API is used to display all website visit details
-	 2.2 /topwebsites?visitDate=2016-01-13 : This API is used to display top 5 visted website on specified date. Date format YYYY-mm-DD
+   2.2 /topwebsites?visitDate=2016-01-13 : This API is used to display top 5 visted website on specified date. Date format YYYY-mm-DD
