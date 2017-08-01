@@ -1,0 +1,981 @@
+@charset "utf-8";/* CSS Document */
+@media screen and (max-width: 1200px) {
+.col1 {
+	width:54%
+}
+.col3 {
+	width:10%
+}
+.btn {
+	padding:6px 8px
+}
+.label1 {
+	width:18%
+}
+.textarea textarea {
+	width:100%
+}
+#filerbox::before {
+	right:230px
+}
+.delete-btn {
+	float:left;
+	margin-left:17px;
+	width:10%
+}
+.button-grp {
+	clear:both;
+	margin-bottom:20px;
+	margin-right:5px;
+	margin-top:10px;
+	overflow:hidden
+}
+.field {
+	width:33%;
+	float:left
+}
+.addnew .col-md-3 {
+	clear:none;
+	float:left;
+	width:49%;
+	margin-bottom:0
+}
+div.add-filed-sec .col-md-3 {
+	width:50%;
+	float:left
+}
+.added .textbox {
+	margin-bottom:10px
+}
+.delete-btn {
+	margin-top:-5px;
+	right:32px
+}
+.delete-btn .btn {
+	padding:1px 6px;
+	width:20px;
+	font-size:11px;
+	height:20px
+}
+.added {
+	margin:5px 0
+}
+.recordaction {
+	width:22%
+}
+.shownum {
+	width:70%
+}
+.action-fn-icon a {
+	height:30px;
+	width:30px;
+	line-height:28px
+}
+}
+@media screen and (max-width: 1024px) {
+.sidebar {
+	width:220px
+}
+#page-wrapper {
+	padding:20px;
+	margin:0 0 0 220px
+}
+.field {
+	width:33.33%
+}
+.menu-toggle a {
+	margin-left:-50px;
+	margin-top:-15px;
+	height:34px
+}
+.delete-btn {
+	margin-top:-5px;
+	right:21px
+}
+.actions .btn {
+	font-size:11px
+}
+.serch-filed-sec .small {
+	width:130px
+}
+.blockMsg {
+	margin:-14px 0 0 -59px!important
+}
+}
+@media screen and (max-width: 980px) {
+.expand_in {
+	display:block;
+	float:right
+}
+.pagination-panel .btn-sm {
+	margin-right: 5px;
+}
+.login .content .form-actions {
+	margin:0 0 10px;
+	padding:0
+}
+.filed1 {
+	margin-bottom:0
+}
+.selectdiv {
+	width:36%;
+	margin-right:15px
+}
+#page-wrapper {
+	margin-left:220px
+}
+#addnew::before, #filerbox::before {
+	margin-top:-18px
+}
+.sidebar {
+	width:220px
+}
+.addmore, .small {
+	margin:0 0 10px
+}
+.addmore select {
+	margin-left:0
+}
+.form-actions {
+	width:100%
+}
+.function-box-close {
+	margin-top:7px
+}
+.recordaction .small {
+	margin:0 15px 0 10px
+}
+.serch-filed-sec .form-actions {
+	width:auto
+}
+.serch-filed-sec .small {
+	width:120px
+}
+.searchbox .filed1 {
+	clear:both
+}
+.serch-filed-sec .selectdiv {
+	margin:0 15px
+}
+.serch-filed-sec .checkbox-switch {
+	margin:0
+}
+.function-box-close {
+	margin-right:-7px
+}
+.delete-btn {
+	margin-top:-5px;
+	right:21px
+}
+.label1 {
+	width:20%
+}
+.radioBtns label {
+	font-size:11px;
+	padding:5px 7px
+}
+.textbox {
+	font-size:13px;
+	height:27px
+}
+.radioBtns {
+	padding:0
+}
+.sbHolder, .sbSelector, .sbToggle {
+	height:30px;
+	line-height:29px
+}
+.serch-filed-sec .sbHolder, .serch-filed-sec .sbSelector, .serch-filed-sec .sbToggle {
+	height:25px;
+	line-height:21px
+}
+.form-actions .btn {
+	padding:3px 8px
+}
+.serch-filed-sec .label1 {
+	line-height:21px
+}
+.sbOptions a {
+	padding:3px 0 4px 1px
+}
+.function-box {
+	padding:6px
+}
+.function-box h2.title {
+	font-size:20px
+}
+#add_new_record {
+	margin:0 9px 0 7px
+}
+.added .textbox {
+	margin-bottom:7px
+}
+.added {
+	padding:15px 0
+}
+#filerbox .function-box-close, .addnew .function-box-close {
+	margin-top:7px
+}
+.shownum {
+	padding-right:0;
+	margin-top:2px;
+	width:64%
+}
+.recordaction {
+	width:30%
+}
+h1.page-header::before {
+	bottom:-8px
+}
+.mobile .pageOf {
+	margin-left:2px;
+	margin-right:6px;
+	position:relative
+}
+
+.shownum .small {
+	margin-left:0;
+	margin-bottom:0
+}
+.serch-filed-sec .label1 {
+	padding-top:0
+}
+.serch-filed-sec .label1 label {
+	font-size:12px
+}
+.pagination-panel .small select {
+	height:28px
+}
+.small select {
+	height:25px
+}
+.serch-filed-sec label {
+	padding-bottom:5px;
+	padding-top:5px
+}
+.radioBtns .radioYes label {
+	border-right:medium none
+}
+}
+@media screen and (max-width: 800px) {
+.field {
+	width:50%;
+	float:left
+}
+.addnew .col-md-3 {
+	width:52%
+}
+.addnew .submit-btn {
+	float:left;
+	margin-right:10px;
+	width:44%
+}
+hr {
+	width:95%
+}
+.serch-filed-sec .selectdiv {
+	margin:0 6px;
+	width:43%
+}
+label {
+	font-size:12px
+}
+.function-box-close {
+	padding:2px 6px
+}
+#sec-fn-search h2.title {
+	margin:0 0 8px
+}
+.small select {
+	height:26px
+}
+.radioBtns .label {
+	padding-top:5px
+}
+.serch-filed-sec .label1 {
+	line-height:11px;
+	width:24%
+}/*.blockMsg{margin:-49px 0 0 -56px!important}*/
+.expand-contents > label {
+	width: 17%;
+}
+.expand-contents > span {
+	width:auto;
+}
+}
+@media screen and (max-width: 767px) {
+.m-view {
+	display:block !important;
+	margin-bottom:5px !important;
+}
+.w-view {
+	display:none !important;
+}
+.portlet-title .actions .btn {
+	background: none repeat scroll 0 0 #20968C;
+}
+.actions .btn i {
+	font-size: 17px;
+}
+.portlet-title .disabled_action i {
+	color:#fff;
+}
+.navbar-right {
+	margin-right: 0;
+	overflow: hidden;
+	width: 53%;
+}
+.recordaction {
+	margin-bottom: 0;
+	width: 23%;
+}
+.shownum {
+	width: 77%;
+}
+.menu-toggle a {
+	margin-top:-5px
+}
+.icon {
+	margin-top:2px
+}
+.delete-btn {
+	margin-top:-6px;
+	right:0
+}
+.hideTree {
+	display:none
+}
+#page-wrapper {
+	margin-left:0
+}
+.selectdiv {
+	float:left
+}
+.navbar-top-links li a {
+	padding:0 0 3px
+}
+.main-menu ul li {
+	font-size:20px
+}
+.main-menu-collapse.in {
+	overflow-y:auto
+}
+.main-menu-collapse {
+	border-top:1px solid transparent;
+	box-shadow:0 1px 0 rgba(255,255,255,.1) inset;
+	overflow-x:visible;
+	padding-left:15px;
+	padding-right:15px
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background:#fff
+}
+.navbar-toggle {
+	background:#486c9c
+}
+.navbar-default .navbar-toggle {
+	border-color:#486c9c;
+	border-radius:0;
+	height:35px
+}
+.main-menu-toggle .navbar-toggle {
+	right:25px;
+	top:-40px;
+	width:45px!important
+}
+.direcory-btn .navbar-toggle {
+	margin:0;
+	width:100%
+}
+.direcory-btn .sr-only {
+	border:0;
+	clip:unset;
+	left:40px;
+	font-size:14px;
+	text-transform:uppercase;
+	font-weight:600;
+	color:#fff;
+	height:auto;
+	margin:-1px;
+	overflow:hidden;
+	padding:0;
+	position:absolute;
+	width:auto;
+	line-height:14px
+}
+.sidebar {
+	max-height:750px;
+	position:absolute
+}
+.navbar-default .navbar-toggle {
+	width:100%;
+	margin:0
+}
+.menu-heading {
+	display:none
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background:#486c9c;
+	border:1px solid #486c9c
+}
+.main-menu ul {
+	margin:10px 0 0;
+	padding:0
+}
+.main-menu ul li {
+	margin-left:3px
+}
+.col1 {
+	width:41%
+}
+.col2 {
+	width:41%;
+	margin-top:30px
+}
+.col3 {
+	margin-top:30px
+}
+.button-grp {
+	width:auto
+}
+.selectdiv select {
+	width:100%
+}
+#addnew::before {
+	right:94px
+}
+.navbar {
+	height:auto
+}
+.link {
+	line-height:18px
+}
+.addmore {
+	width:320px
+}
+.serch-filed-sec .filed1 {
+	display:block
+}
+.sidebar {
+	background:#486c9c;
+	color:#fff;
+	width:100%
+}
+ul.nav-second-level {
+	background:#486c9c
+}
+.sidebar .nav>li>a, ul.nav-second-level li a {
+	color:#fff;
+	background:url(../images/circle-white.png) 10px center no-repeat
+}
+.sidebar ul li {
+	border-bottom:1px solid rgba(255,255,255,.2)
+}
+#page-wrapper {
+	padding:15px
+}
+.navbar-brand img {
+	width:100%
+}
+.navbar-header {
+	width:44%;
+	float:left
+}
+.navbar-top-links {
+	margin-top:15px
+}
+.navbar-header img {
+	margin-top:11px
+}
+.main-menu {
+	clear:none;
+	margin:0
+}
+.sidebar {
+	z-index:9;
+	top:100%
+}
+.addnew .col-md-3 {
+	float:left;
+	width:45%
+}
+#side-menu .current {
+	background:#26a69a!important
+}
+.portlet-title {
+	margin-top:-46px;
+	padding:0 15px;
+	position:absolute;
+	right:0;
+	z-index:2
+}
+.actions .btn {
+	width:35px;
+	overflow:hidden
+}
+.actions .btn i {
+	margin-right:10px;
+	padding:0 5px
+}
+.function-box {
+	background:#fff;
+	margin-top:-41px;
+	position:relative
+}
+.table-container {
+	margin-top:10px
+}
+#side-menu .current li a {
+	color:#fff;
+	background:url(../images/circle-white.png) 10px center no-repeat
+}
+.action-fn {
+	display:none
+}
+.page-header {
+	width:100%
+}
+.recordaction {
+	float:right;
+	margin-bottom:0;
+}
+#rep-action {
+	word-break:keep-all
+}
+.set-plus_icon span {
+	float:left
+}
+.serch-filed-sec .form-actions {
+	width:46%!important
+}
+.serch-filed-sec .small {
+	width:20%
+}
+.serch-filed-sec .selectdiv {
+	width:37%
+}
+.mobile .pageText {
+	display:inline;
+	float:left;
+	width:auto
+}
+
+.panel-yellow .panel-heading {
+	padding-right:15px
+}
+#side-menu .current li a:hover {
+	background-color:#365a8a;
+	color:#fff
+}
+.nav-second-level {
+	padding-left:10px;
+	padding-right:10px
+}
+.actions .disabled_action {
+	opacity:.74
+}/*.blockMsg{margin:-30px 0 0 -66px!important}*/
+}
+@media screen and (max-width: 600px) {
+.navbar-header {
+	float:left;
+	margin:0 auto
+}
+.main-menu-collapse {
+	padding:0 10px 0 0
+}
+.delete-btn {
+	margin-top:-5px;
+	right:2px
+}
+.main-menu a {
+	color:#fff;
+	display:block;
+	font-weight:700;
+	height:20px;
+	overflow:hidden;
+	text-align:center;
+	width:18px
+}
+.main-menu {
+	clear:right;
+	margin-right:10px;
+	margin-top:-8px
+}
+.navbar-header {
+	width:50%
+}
+.main-menu ul li {
+	padding:5px 7px
+}
+.icon .fa-newspaper-o {
+	margin-top:2px
+}
+.main-menu .icon {
+	float:left;
+	margin-left:3px;
+	margin-right:0;
+	margin-top:3px
+}
+.blockMsg {
+	margin:-14px 0 0 -56px!important
+}
+.expand-contents > label {
+	width: 22%;
+}
+.expand-contents > span {
+	width:auto;
+}
+.navbar-right {
+	width: auto;
+}
+.shownum {
+	float: left;
+	width: 57%;
+}
+.recordaction {
+	width: 33%;
+}
+}
+@media screen and (max-width: 520px) {
+.navbar-header {
+	clear:both;
+	float:none;
+	margin:0;
+	padding:0 15px;
+	width:70%
+}
+.navbar-brand {
+	padding:5px 0
+}
+.navbar-top-links {
+	float:left!important;
+	margin-left:10px;
+	margin-right:0
+}
+.main-menu {
+	margin-right:15px;
+	margin-top:-8px;
+	position:relative;
+	width:24%;
+	clear:right!important
+}
+.main-menu ul {
+	float:right;
+	margin:10px 0 0;
+	padding:0
+}
+.main-menu .link {
+	line-height:15px
+}
+.addnew .col-md-3 {
+	float:left;
+	width:65%
+}
+.pagination-panel .btn-sm {
+	margin-left:0
+}
+#fn-submit {
+	width:30px
+}
+.form-actions #fn-submit {
+	width:auto
+}
+.recordaction .small {
+	margin:0 10px
+}
+.recordaction {
+	width:35%
+}
+.search-criteria .small select {
+	font-size:12px
+}
+.radioBtns label {
+	font-size:10px
+}
+.login .content {
+	width:80%
+}
+.login .content .m-wrap {
+	width:100%
+}
+}
+@media screen and (max-width: 480px) {
+.addnew .col-md-3 {
+	float:none;
+	width:100%
+}
+.col1 {
+	width:100%
+}
+.col2 {
+	width:100%;
+	margin-top:10px
+}
+.col3 {
+	margin-top:10px
+}
+.selectdiv {
+	margin-bottom:5px;
+	margin-right:15px
+}
+.portlet-title>.actions {
+	float:left
+}
+#filerbox::before {
+	left:36px;
+	right:auto
+}
+#addnew::before {
+	left:116px;
+	right:auto
+}
+.checkbox-switch {
+	margin:0 0 10px
+}
+.addmore {
+	width:80%
+}
+.filed1 {
+	width:100%
+}
+.serch-filed-sec .small {
+	margin:0
+}
+.serch-filed-sec .label1 {
+	width:100%
+}
+.serch-filed-sec .selectdiv {
+	width:48%
+}
+.addnew .submit-btn {
+	margin-top:15px
+}
+.checkbox-switch, .checkbox-switch .checkbox-animate, .checkbox-switch input.input-checkbox {
+	width:100%
+}
+.checkbox-switch .checkbox-off {
+	background:#7f8c8d;
+	color:#fff;
+	font-size:11px;
+	height:35px;
+	line-height:17px;
+	opacity:1
+}
+.checkbox-switch .checkbox-animate::before {
+	font-size:11px
+}
+.checkbox-switch .checkbox-on {
+	font-size:11px;
+	left:0;
+	line-height:17px;
+	position:absolute;
+	width:50%;
+	text-align:center
+}
+.navbar-top-links {
+	font-size:12px
+}
+.navbar-header {
+	clear:both;
+	float:none;
+	margin:0;
+	padding:0 15px;
+	width:70%
+}
+.navbar-brand img {
+	height:38px;
+	width:100%
+}
+.serch-filed-sec .checkbox-switch {
+	float:left;
+	margin:0;
+	width:22%
+}
+.pagelist, .shownumner {
+	display:block
+}
+.function-box {
+	margin-top:-38px
+}
+.direcory-btn .sr-only {
+	left:42px;
+	font-size:14px
+}
+.radioBtns label {
+	font-size:11px;
+	padding:5px
+}
+div.add-filed-sec .col-md-3 {
+	float:none;
+	width:100%
+}
+.page-header {
+	font-size:20px
+}
+.recordaction {
+	margin-top:0
+}
+.page-header {
+	width:100%
+}
+.serch-filed-sec .form-actions {
+	width:50%!important
+}
+.recordaction {
+	padding:0
+}
+.pagination-panel {
+	margin-right:0
+}
+.recordaction {
+	width:35%
+}
+.serch-filed-sec .selectdiv {
+	margin:0 6px 0 0
+}
+.serch-filed-sec .small {
+	margin-right:6px;
+	width:31%
+}
+.expand-contents > label {
+	width: 26%;
+}
+.expand-contents > span {
+	width:auto;
+}
+.shownum {
+	float: left;
+	width: 100%;
+}
+.recordaction {
+	width: 33%;
+}
+
+.small {
+	font-size:13px
+}
+.shownum .small {
+	margin-right: 0;
+
+}
+.recordaction {
+    float: left !important;
+    margin-top: 5px;
+    padding: 0 0 0 15px;
+    width: auto;
+}
+.pagination-panel .btn-sm {
+	margin-left: 5px;
+}
+}
+/* @media screen and (max-width: 384px) {.serch-filed-sec .selectdiv {    margin: 3px 0 0 107px;}}*/ 
+@media screen and (max-width: 380px) {
+.label1 {
+	width:100%
+}
+.serch-filed-sec .small {
+	width:25%
+}
+.serch-filed-sec .selectdiv {
+	width:53%
+}
+.shownum {
+	float:left
+}
+.recordaction {
+	margin-bottom:0
+}
+.direcory-btn .sr-only {
+	display:none
+}
+.serch-filed-sec .form-actions {
+	width:60%!important
+}
+.recordaction {
+	margin-top:18px;
+	width:37%
+}
+.expand-contents > label {
+	width: auto;
+	margin-right:5px;
+}
+.expand-contents > span {
+	width:auto;
+}
+}
+@media screen and (max-width: 360px) {
+.main-menu ul {
+	padding:0
+}
+.navbar-brand {
+	width:80%
+}
+.addnew .col-md-3 {
+	width:96%
+}
+.addmore {
+	width:80%
+}
+.page-header {
+	font-size:20px
+}
+.navbar-header {
+	width:100%
+}
+.portlet-title .btn {
+	padding:6px
+}
+.direcory-btn .sr-only {
+	display:none
+}
+.function-box {
+	margin-top:-38px
+}
+.serch-filed-sec .selectdiv {
+	width:49%
+}
+.serch-filed-sec .form-actions {
+	width:100%!important
+}
+.pagination-panel .shownum {
+	width:100%
+}
+.serch-filed-sec .form-actions {
+	margin:10px 0
+}
+.recordaction {
+	width:45%
+}
+.main-menu {
+	width:25%;
+	margin-right:8px;
+	margin-top:-4px
+}
+.navbar-top-links li:last-child {
+	margin-right:0
+}
+.recordaction {
+	margin-top:18px
+}
+.blockMsg {
+	margin:-14px 0 0 -85px!important
+}
+.login .content {
+	width:90%
+}
+.login-opt {
+	padding-top:20px
+}
+.login-opt .pull-left, .login-opt .pull-right {
+	float:none!important
+}
+}
+@media screen and (max-width: 280px) {
+.main-menu {
+	width:29%
+}
+.recordaction {
+	width:42%;
+	margin-top:0
+}
+}
